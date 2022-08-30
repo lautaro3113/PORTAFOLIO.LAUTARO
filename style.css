@@ -2,6 +2,9 @@ body {
   margin: 0;
   font-family: 'Oxygen', sans-serif;
   color: #03045e;
+  background-image:url(FYuCdUuX0AArcWK.jpg);
+  background-position: center;
+  background-size: cover;
 }
 /* Titulo en color rojo */
 h1 {
